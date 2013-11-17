@@ -52,7 +52,7 @@ Of course not.
 ##Where does Rails fit in?
 ### High-level: Client (Browser) <-> Server (Rails)
 
-![Internet Diagram](../../assets/rails/internet.png)
+![Internet Diagram](/assets/rails/internet.png)
 
 ---
 
@@ -74,7 +74,7 @@ Of course not.
 
 *	Browsers send input (the request) and the server returns output (the response).
 
-![Request Response Diagram](../../assets/rails/response_request.png)
+![Request Response Diagram](/assets/rails/response_request.png)
 
 ---
 
@@ -92,7 +92,7 @@ Of course not.
 
 ---
 
-<img id ='icon' src="../../assets/ICL_icons/Code_along_icon_md.png">
+<img id ='icon' src="/assets/ICL_icons/Code_along_icon_md.png">
 ##Scaffold Books
 
 ---
@@ -151,7 +151,7 @@ Scaffolds are great when getting started with Rails or a new app, but are genera
 ###my_first_rails_app
 
 
-![App Structure](../../assets/rails/app_structure.png)
+![App Structure](/assets/rails/app_structure.png)
 
 *	Most of your application logic belongs to app/ (including css and javascript files)
 
@@ -181,7 +181,7 @@ More about app structure in following class.
 ---
 
 
-<img id ='icon' src="../../assets/ICL_icons/Code_along_icon_md.png">
+<img id ='icon' src="/assets/ICL_icons/Code_along_icon_md.png">
 ##The Public Folder
 
 Add a static file to public.
@@ -193,7 +193,7 @@ Add a static file to public.
 ---
 
 
-<img id ='icon' src="../../assets/ICL_icons/Exercise_icon_md.png">
+<img id ='icon' src="/assets/ICL_icons/Exercise_icon_md.png">
 ##Lab Time
 
 *	Create a new application called User_Scaffold. 
@@ -261,13 +261,13 @@ We really want you to have a general understanding of how the internet works. He
 ##Request Response
 ###Review
 
-![Request Response Diagram](../../assets/rails/response_request.png)
+![Request Response Diagram](/assets/rails/response_request.png)
 
 
 ---
 
 
-<img id ='icon' src="../../assets/ICL_icons/Code_along_icon_md.png">
+<img id ='icon' src="/assets/ICL_icons/Code_along_icon_md.png">
 ##Games on Rails
 
 ---
@@ -282,7 +282,7 @@ We really want you to have a general understanding of how the internet works. He
 *	Current Routes: $ rake routes
 	*	Rails 4: Can be seen at http://localhost:3000/rails/info/routes
 
-![](../../assets/rails/routes.png)
+![](/assets/rails/routes.png)
 
 ---
 
@@ -292,7 +292,7 @@ We really want you to have a general understanding of how the internet works. He
 
 GET, POST, PUT/PATCH, DELETE
 
-![](../../assets/rails/http_verb.png)
+![](/assets/rails/http_verb.png)
 
 ---
 
@@ -309,7 +309,7 @@ GET, POST, PUT/PATCH, DELETE
 ##Model View Controller
 ###aka MVC
 
-![MVC Diagram](../../assets/rails/mvc_diagram.png)
+![MVC Diagram](/assets/rails/mvc_diagram.png)
 
 ---
 
@@ -369,7 +369,7 @@ Controllers:
 *	By default your controller renders the view named controller_name/action_name.html.erb
 
 
-![Views Folder](../../assets/rails/views.png)
+![Views Folder](/assets/rails/views.png)
 
 ---
 
@@ -406,7 +406,7 @@ Controllers:
 ##Views
 ###Asset Folder
 
-![](../../assets/rails/app_assets.png)
+![](/assets/rails/app_assets.png)
 
 ---
 
@@ -417,7 +417,7 @@ Final project proposal due lesson 9.
 ---
 
 
-<img id ='icon' src="../../assets/ICL_icons/Exercise_icon_md.png">
+<img id ='icon' src="/assets/ICL_icons/Exercise_icon_md.png">
 ##Lab Time
 
 Add Rock Paper Scissors to Games on Rails
