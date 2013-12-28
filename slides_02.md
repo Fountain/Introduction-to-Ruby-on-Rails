@@ -1,6 +1,6 @@
 ![GeneralAssemb.ly](https://github.com/generalassembly/ga-ruby-on-rails-for-devs/raw/master/images/ga.png "GeneralAssemb.ly")
 
-#BEWD - My First Rails App
+#My First Rails App
 
 ###Brian Fountain
 
@@ -20,13 +20,9 @@
 ##HEADS UP: Put in the work
 ### You need to be spending lots of time outside of class learning
 
-*	Simply attending lectures is not enough -- need to ensure you are putting in the extra time outside of classes to stay ahead
+*	Simply attending class is not enough -- need to ensure you are putting in the extra time outside of classes to stay ahead
 *	Lectures should be considered a high-level guide of what you need to study/practice
-*	The high-level here is that there is a lot to learn. This course only spends 6 hours a week in lectures and *assumes* that you are spending the rest of your time working. 
-*	This course should be filling in the gaps of your knowledge (not the other way around).
 *	You should be going beyond the assigned exercises/homework. Those are the minimum.
-
-Remember, this is a boot-camp style program. Put in the work!
 
 ---
 
