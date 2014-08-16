@@ -37,7 +37,7 @@ At a high level, we will focus on developing expertise with the following:
 ###Getting Your Dev Environment Ready
 
 
-This class is using Ruby 2.0 (p195) and Rails 4.0 (RC1). 
+This class is using Ruby 2.1.1 (p195) and Rails 4.0. 
 
 If you haven't done so already, please take some time now to get your machine set up. 
 
@@ -103,7 +103,7 @@ For Windows:
 ---
 
 ![GeneralAssemb.ly](/assets/ICL_icons/Code_along_icon_md.png)
-##Git Basics (~30 min)
+##Git Basics
 
 **_1. Adding git to a folder_**
 
