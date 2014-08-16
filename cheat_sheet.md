@@ -102,11 +102,11 @@ Here are some keyboard shortcuts in the command line to help you keep up (note: 
 
 Fork Button
 
-![Fork Button](../../assets/GitHub/fork_button.png)
+![Fork Button](/assets/GitHub/fork_button.png)
 
 Pull Request Buttons
 
-![Pull Request](../../assets/GitHub/pull_request_button.png)
+![Pull Request](/assets/GitHub/pull_request_button.png)
 
 ---
 
